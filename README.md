@@ -3,7 +3,7 @@
 [한국어](./README.md) [English](./README_en.md)
 
 ## 김한범
-![프로필사진](https://github.com/hbkimhbkim/Resume/blob/master/images/hbkim.jpeg)
+![프로필사진](https://github.com/hbkimhbkim/Resume/blob/master/images/hbkim.JPG)
 
 >'시간으로 쟁취해낸 것은 시간이 증명해 줄 것'. <br/>
 
