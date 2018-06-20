@@ -10,6 +10,7 @@
 - Email: hbkim0104@gmail.com
 - GitHub: [github](https://github.com/hbkimhbkim)
 - LinkedIn: [LinkedIN](https://www.linkedin.com/in/hanbum-kim-a2b08b163/)
+- Blog: [Blog](https://hbwarehouse.blogspot.kr/)
 
 ## 교육
 - 영일고등학교 졸업(2006 ~ 2008)
@@ -40,4 +41,4 @@
 - 영어
 
 ### 블로그
-- 살다간 흔적을 남겨놓고 싶어서 운영중.(https://hbwarehouse.blogspot.kr/)
+- 살다간 흔적을 남겨놓고 싶어서 운영중(https://hbwarehouse.blogspot.kr/)
