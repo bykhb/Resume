@@ -5,7 +5,7 @@
 ## 김한범
 ![프로필사진](https://github.com/hbkimhbkim/Resume/blob/master/images/hbkim.JPG)
 
->'시간으로 쟁취해낸 것은 시간이 증명해 줄 것'. <br/>
+>'시간으로 쟁취해낸 것은 결국 시간이 증명해 줄 것이라고, 저는 믿습니다'. <br/>
 
 - Email: hbkim0104@gmail.com
 - GitHub: [github](https://github.com/hbkimhbkim)
